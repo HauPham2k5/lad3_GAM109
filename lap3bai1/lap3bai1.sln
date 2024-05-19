@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lap3bai1", "lap3bai1\lap3bai1.csproj", "{3764CDC7-C19A-46BD-B53F-C38240AEFEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lap3bai2", "lap3bai2\lap3bai2.csproj", "{2BE58A99-227B-4740-8549-DB8BE8A67B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lap3bai3", "lap3bai3\lap3bai3.csproj", "{D33C1320-9DE5-4130-9693-F11D5C473B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3764CDC7-C19A-46BD-B53F-C38240AEFEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3764CDC7-C19A-46BD-B53F-C38240AEFEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3764CDC7-C19A-46BD-B53F-C38240AEFEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3764CDC7-C19A-46BD-B53F-C38240AEFEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE58A99-227B-4740-8549-DB8BE8A67B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE58A99-227B-4740-8549-DB8BE8A67B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE58A99-227B-4740-8549-DB8BE8A67B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE58A99-227B-4740-8549-DB8BE8A67B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33C1320-9DE5-4130-9693-F11D5C473B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33C1320-9DE5-4130-9693-F11D5C473B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33C1320-9DE5-4130-9693-F11D5C473B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33C1320-9DE5-4130-9693-F11D5C473B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C00E9B49-4D3A-4033-9C05-140368F5A20F}
+	EndGlobalSection
+EndGlobal
